@@ -12,6 +12,10 @@
 [![Xcode](https://img.shields.io/badge/Xcode-27-147EFB?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![Assets](https://img.shields.io/badge/images-0%20·%20100%25%20code--drawn-F6C64A)](#-how-its-drawn)
 
+<img src="screenshots/demo.gif" width="300" alt="Demo: moving the chair and watching the sun set over B-612">
+
+*🪑 Move the chair, watch the sun set again · 挪一挪椅子，再看一次日落*
+
 [🇺🇸 English](#english) · [🇹🇼 繁體中文](#chinese)
 
 <table>
